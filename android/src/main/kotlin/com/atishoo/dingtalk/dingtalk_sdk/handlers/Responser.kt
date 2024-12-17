@@ -1,6 +1,6 @@
-package com.atishoo.dingtalk.dingtalk_sdk.handlers
+package com.amoyensis.dingtalk.dingtalk_sdk_fork.handlers
 
-import com.atishoo.dingtalk.dingtalk_sdk.constant.AuthResponse
+import com.amoyensis.dingtalk.dingtalk_sdk_fork.constant.AuthResponse
 import io.flutter.plugin.common.MethodChannel
 
 object Responser {

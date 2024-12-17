@@ -1,4 +1,4 @@
-package com.atishoo.dingtalk.dingtalk_sdk.constant
+package com.amoyensis.dingtalk.dingtalk_sdk_fork.constant
 
 class CallbackResult {
     companion object {

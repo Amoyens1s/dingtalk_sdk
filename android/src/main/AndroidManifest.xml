@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.atishoo.dingtalk.dingtalk_sdk">
+  package="com.amoyensis.dingtalk.dingtalk_sdk_fork">
     <application>
         <activity
             android:name=".ddauth.DDAuthActivity"
@@ -10,7 +10,7 @@
             android:name="${applicationId}.ddauth.DDAuthActivity"
             android:exported="true"
             android:launchMode="singleTask"
-            android:targetActivity="com.atishoo.dingtalk.dingtalk_sdk.ddauth.DDAuthActivity"
+            android:targetActivity="com.amoyensis.dingtalk.dingtalk_sdk_fork.ddauth.DDAuthActivity"
             android:theme="@android:style/Theme.Translucent.NoTitleBar">
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />

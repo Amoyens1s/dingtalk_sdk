@@ -3,7 +3,7 @@
 # Run `pod lib lint dingtalk_sdk.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'dingtalk_sdk'
+  s.name             = 'dingtalk_sdk_fork'
   s.version          = '0.0.1'
   s.summary          = 'A new Flutter plugin project.'
   s.description      = <<-DESC

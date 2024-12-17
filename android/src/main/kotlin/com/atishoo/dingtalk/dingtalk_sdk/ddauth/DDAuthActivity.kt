@@ -1,11 +1,11 @@
-package com.atishoo.dingtalk.dingtalk_sdk.ddauth
+package com.amoyensis.dingtalk.dingtalk_sdk_fork.ddauth
 
 import android.app.Activity
 import android.os.Bundle
 import android.util.Log
 import com.android.dingtalk.openauth.utils.DDAuthConstant
-import com.atishoo.dingtalk.dingtalk_sdk.constant.AuthResponse
-import com.atishoo.dingtalk.dingtalk_sdk.handlers.Responser
+import com.amoyensis.dingtalk.dingtalk_sdk_fork.constant.AuthResponse
+import com.amoyensis.dingtalk.dingtalk_sdk_fork.handlers.Responser
 
 
 open class DDAuthActivity : Activity() {

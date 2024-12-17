@@ -1,4 +1,4 @@
-package com.atishoo.dingtalk.dingtalk_sdk
+package com.amoyensis.dingtalk.dingtalk_sdk_fork
 
 import androidx.annotation.NonNull
 
@@ -12,10 +12,10 @@ import io.flutter.plugin.common.MethodChannel.Result
 import com.android.dingtalk.openauth.AuthLoginParam
 import com.android.dingtalk.openauth.DDAuthApiFactory
 import com.android.dingtalk.openauth.IDDAuthApi
-import com.atishoo.dingtalk.dingtalk_sdk.constant.CallbackResult
-import com.atishoo.dingtalk.dingtalk_sdk.handlers.Auth
-import com.atishoo.dingtalk.dingtalk_sdk.handlers.Responser
-import com.atishoo.dingtalk.dingtalk_sdk.handlers.Share
+import com.amoyensis.dingtalk.dingtalk_sdk_fork.constant.CallbackResult
+import com.amoyensis.dingtalk.dingtalk_sdk_fork.handlers.Auth
+import com.amoyensis.dingtalk.dingtalk_sdk_fork.handlers.Responser
+import com.amoyensis.dingtalk.dingtalk_sdk_fork.handlers.Share
 
 /** DingtalkSdkPlugin */
 class DingtalkSdkPlugin: FlutterPlugin, MethodCallHandler, ActivityAware {

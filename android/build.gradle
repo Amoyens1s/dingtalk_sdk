@@ -1,4 +1,4 @@
-group = "com.atishoo.dingtalk.dingtalk_sdk"
+group = "com.amoyensis.dingtalk.dingtalk_sdk_fork"
 version = "1.0-SNAPSHOT"
 
 buildscript {
@@ -26,7 +26,7 @@ apply plugin: "kotlin-android"
 
 android {
     if (project.android.hasProperty("namespace")) {
-        namespace = "com.atishoo.dingtalk.dingtalk_sdk"
+        namespace = "com.amoyensis.dingtalk.dingtalk_sdk_fork"
     }
 
     compileSdk = 34

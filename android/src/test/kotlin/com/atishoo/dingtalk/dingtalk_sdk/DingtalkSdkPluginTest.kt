@@ -1,4 +1,4 @@
-package com.atishoo.dingtalk.dingtalk_sdk
+package com.amoyensis.dingtalk.dingtalk_sdk_fork
 
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel
